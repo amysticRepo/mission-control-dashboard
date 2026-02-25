@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    { "id": "task-1", "title": "Phase 1-10: Initial Build & Feature Enhancements", "status": "success", "priority": "critical", "description": "Initial creation of the dashboard, including GitHub/Vercel skills." },
+    { "id": "task-11", "title": "Phase 11-15: Daily News Module Implementation", "status": "success", "priority": "high", "description": "Built the backend, frontend, and cron job for the automated news briefing." },
+    { "id": "task-16", "title": "Phase 16-21: Cascade Failure 1 (Frontend Patching)", "status": "success", "priority": "critical", "tag": "FAILURE", "description": "A series of flawed frontend patches that failed to address the root backend bug." },
+    { "id": "task-22", "title": "Phase 22-23: Regression 1 (Responsiveness Loss)", "status": "success", "priority": "high", "tag": "FAILURE", "description": "A UI overhaul that accidentally removed all mobile responsive styles." },
+    { "id": "task-24", "title": "Phase 24-27: Cascade Failure 2 (Rebuild Flaw)", "status": "success", "priority": "critical", "tag": "FAILURE", "description": "A full rebuild that still contained the latent backend bug, leading to repeated deployment failures." },
+    { "id": "task-28", "title": "Phase 28-29: Final Data Update (Pre-Analysis)", "status": "success", "priority": "medium", "description": "The last deployment before the true root cause was finally identified." },
+    { "id": "task-30", "title": "Phase 30-31: Definitive Backend Architectural Fix", "status": "success", "priority": "critical", "description": "The final, correct fix of the backend's data access logic, resolving all deployment issues." },
+    { "id": "task-32", "title": "Phase 32: Full System Purge and Rebuild", "status": "inprogress", "priority": "critical", "description": "Initiating a definitive rebuild using the kilo CLI and a disciplined workflow." },
+    { "id": "task-33", "title": "Phase 33: Final Verified Deployment", "status": "pending", "priority": "critical", "description": "The final deployment after successful local verification." }
+  ]
+}
